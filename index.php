@@ -265,7 +265,7 @@ function carousel() {
 <br><br><br><br><br>
 <div style="width: 100%;height: 41px;background-color: #333333">
 <br>
-	<center><div style="color: #ffffff;" >&copy; 2017  - All Rights Reserved</div>
+	<center><div style="color: #ffffff;" >&copy; 2017  - All Rights Reserved. [ Mehul.S.Dholiya ]</div>
 
 </div>
 
